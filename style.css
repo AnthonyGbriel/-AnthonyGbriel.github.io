@@ -1,0 +1,13 @@
+
+body{
+    background-color: black;
+}
+#todos_textos{
+    color: white;
+    width: 700px;
+}
+#nome_idade{
+    background-color: rgb(136, 136, 136);
+    height: 150px;
+    width: 700px;
+}
